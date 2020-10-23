@@ -1,8 +1,8 @@
 **FreeCodeCamp**- Information Security and Quality Assurance
 
-Project Page:[click here](https://glitch.com/~festive-galvanized-chips)
+Project Page: [click here](https://glitch.com/~festive-galvanized-chips)
 
-Live App:[click here](https://festive-galvanized-chips.glitch.me)
+Live App: [click here](https://festive-galvanized-chips.glitch.me)
 
 ------
 1) SET NODE_ENV to `test` without quotes
