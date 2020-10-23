@@ -1,6 +1,10 @@
 **FreeCodeCamp**- Information Security and Quality Assurance
+
+Project Page:[click here](https://glitch.com/~festive-galvanized-chips)
+
+Live App:[click here](https://festive-galvanized-chips.glitch.me)
+
 ------
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-project-metricimpconverter)](https://repl.it/github/freeCodeCamp/boilerplate-project-metricimpconverter)
 1) SET NODE_ENV to `test` without quotes
 2) Most logic will need done in `controllers/convertHandler.js` but do complete `routes/api.js`
 3) You will add any security features to `server.js`
